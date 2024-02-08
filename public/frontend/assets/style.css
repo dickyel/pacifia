@@ -1,0 +1,14 @@
+#menu-toggle:checked + #menu {
+    display: block;
+}
+
+.xzoom-thumbs-container {
+    max-width: 300px; 
+    margin: 0 auto;
+}
+
+.xzoom-gallery-thumb {
+    width: 100px; 
+    height: 100px; 
+    margin: 4px;
+}
